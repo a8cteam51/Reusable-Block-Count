@@ -6,6 +6,7 @@
  * Author: georgestephanis
  * Author URI: http://wpspecialprojects.wordpress.com/
  * License: GPLv2+
+ * Version: 1.0
  *
  * Loosely based on https://github.com/yeswework/fabrica-reusable-block-instances/
  *
