@@ -7,3 +7,5 @@
 # Props
 
  Loosely based on https://github.com/yeswework/fabrica-reusable-block-instances/ -- simplified the code for maintainability and readability.  Swapped to WordPress Core methods when available.
+
+ Icon comes from https://material.io/resources/icons/?icon=view_list&style=outline
